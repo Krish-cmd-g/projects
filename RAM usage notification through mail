@@ -1,0 +1,32 @@
+Step 1: Install sendmail
+
+
+#apt-get update
+#apt-get install sendmail
+
+Step 2: Write the Script
+Create a script (ram_usage_alert.sh) 
+
+#!/bin/bash
+
+THRESHOLD=80
+RAM_USAGE=$(free | grep Mem | awk '{print $3/$2 * 100.0}')
+
+if (( $(echo "$RAM_USAGE > $THRESHOLD" | bc -l) )); then
+    echo -e "Subject: RAM Usage Alert\n\nRAM usage is at ${RAM_USAGE}% on $(hostname)" | sendmail -v your-email@example.com
+fi
+
+Step 3: Make the Script Executable
+Give the script permission to run.
+
+#chmod +x ram_usage_alert.sh
+
+Step 4: Schedule the Script
+Use cron to run the script every 10 minutes.
+or use tools like inotify
+
+#crontab -e
+
+*/10 * * * * /path/to/ram_usage_alert.sh
+
+Step 5: Test the Setup.
