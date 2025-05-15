@@ -19,7 +19,8 @@ sudo ufw disable
 
 
 pfsense firewall - https://docs.netgate.com/pfsense/en/latest/install/install-walkthrough.html
-
+     ipfire firewall             -  https://www.ipfire.org/downloads/ipfire-2.29-core192
+opnsense firewall  - https://mirrors.hopbox.net/opnsense/releases/mirror/
 ######################################################
 # Step-by-Step Guide: Installing and Configuring pfSense
 # on a VirtualBox VM (Linux Host)
