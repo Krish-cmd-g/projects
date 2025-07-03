@@ -1,22 +1,3 @@
-<#
-.SYNOPSIS
-    Remove unwanted built-in apps, enforce AppLocker restrictions to allow only admins,
-    monitor and block app launches by non-admins with popup, and auto-run at startup.
-
-.DESCRIPTION
-    This script:
-    - Removes unwanted built-in apps and provisioned packages.
-    - Imports AppLocker policy allowing only Administrators to run these apps.
-    - Monitors process creation to kill blocked apps launched by non-admins and shows a popup.
-    - Creates a scheduled task to run itself at system startup with highest privileges.
-    - Designed for Windows 11 Pro/Enterprise/Education.
-
-.NOTES
-    - Run once as Administrator to set up.
-    - Script runs indefinitely to monitor processes.
-    - To stop monitoring, terminate the PowerShell process or disable the scheduled task.
-#>
-
 # --- 1. Remove unwanted apps function ---
 function Remove-AppxPackageByName {
     param (
