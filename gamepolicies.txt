@@ -1,0 +1,23 @@
+computer configuration-->windows settings-->security settings-->software Restrication policies-->new software restriction policy...>additional rules
+
+C:\Program Files\WindowsApps\king.com*
+C:\Program Files\WindowsApps\Microsoft.Advertising*
+C:\Program Files\WindowsApps\Microsoft.BingWeather*
+C:\Program Files\WindowsApps\Microsoft.Messaging*
+C:\Program Files\WindowsApps\Microsoft.MicrosoftSolitaire*
+C:\Program Files\WindowsApps\Microsoft.People*
+C:\Program Files\WindowsApps\Microsoft.Services.Store*
+C:\Program Files\WindowsApps\Microsoft.SkypeApp*
+C:\Program Files\WindowsApps\Microsoft.Store*
+C:\Program Files\WindowsApps\Microsoft.StorePurchaseApp*
+C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps*
+C:\Program Files\WindowsApps\Microsoft.WindowsFeedbackHub*
+C:\Program Files\WindowsApps\Microsoft.WindowsMaps*
+C:\Program Files\WindowsApps\Microsoft.WindowsStore*
+C:\Program Files\WindowsApps\Microsoft.Xbox*
+C:\Program Files\WindowsApps\Microsoft.YourPhone*
+C:\Program Files\WindowsApps\DolbyLaboratories.DolbyAccess_3.7.1109.0_x64__rz1tebttyb220*
+C:\Program Files\WindowsApps\Microsoft.BingNews*
+C:\Program Files\WindowsApps\2FE3CB00.PICSART-PHOTOSTUDIO_9.3.3.0_x64__crhqpqs3x1ygc*
+C:\Program Files\WindowsApps\828B5831.HiddenCityMysteryofShadows_1.39.3903.0_x86__ytsefhwckbdv6*
+C:\Program Files\WindowsApps\ROBLOXCORPORATION.ROBLOX_2.465.24405.0_x86__55nm5eh3cm0pr*

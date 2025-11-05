@@ -1,0 +1,43 @@
+C:\Program Files\WindowsApps\Microsoft.BingNews_1.0.6.0_neutral_split.scale-100_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.BingNews_1.0.6.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.BingNews_1.0.6.0_neutral_split.scale-100_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.BingNews_1.0.6.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.BingWeather_1.0.6.0_neutral_split.scale-100_8wekyb3d8bbwe*
+C:\Program Files\Window sApps\Microsoft.BingWeather_4.9.2002.0_neutral_~_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.BingWeather_4.9.2002.0_neutral_~_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.MicrosoftSolitaireCollection_4.6.3102.0_neutral_~_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.MicrosoftSolitaireCollection_4.6.3102.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.People_10.1909.12456.0_neutral_split.scale-100_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.People_10.1909.12456.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.People_2020.901.1724.0_neutral_~_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.WindowsStore_12104.1001.1.0_neutral_split.scale-100_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.WindowsStore_12104.1001.1.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.WindowsStore_12104.1001.113.0_neutral_~_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.Xbox.TCUI_1.23.28002.0_neutral_~_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.Xbox.TCUI_1.23.28002.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.46.11001.0_neutral_~_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.46.11001.0_neutral_split.scale-100_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.46.11001.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_2.50.24002.0_neutral_~_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_2.50.24002.0_neutral_split.scale-100_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_2.50.24002.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxIdentityProvider_12.50.6001.0_neutral_~_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxIdentityProvider_12.50.6001.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxSpeechToTextOverlay_1.17.29001.0_neutral_~_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxSpeechToTextOverlay_1.17.29001.0_neutral_split.scale-100_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.XboxSpeechToTextOverlay_1.17.29001.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.YourPhone_0.19051.7.0_neutral_split.scale-100_8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.YourPhone_0.19051.7.0_x64__8wekyb3d8bbwe*
+C:\Program Files\WindowsApps\Microsoft.YourPhone_2019.430.2026.0_neutral_~_8wekyb3d8bbwe*
+
+
+%ProgramFiles%\WindowsApps\Microsoft.WindowsStore*
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+############################################################
+#        Linux Root Password Reset via rd.break            #
+#        (For RHEL, CentOS, Fedora, Rocky, AlmaLinux)      #
+############################################################
+
+1. Reboot the system and interrupt GRUB boot menu:
+   - At the GRUB menu, use arrow keys to select your kernel.
+   - Press 'e' to edit the boot parameters.
+
+2. Find the line beginning with: 
+      linux /vmlinuz-...
+   Append the following to the end of that line:
+      rd.break
+
+3. Press Ctrl + X or F10 to boot into emergency shell.
+
+4. When at the 'switch_root:/#' prompt, run:
+
+      mount -o remount,rw /sysroot
+      chroot /sysroot
+      passwd          <-- (Set new root password when prompted)
+      touch /.autorelabel
+      exit
+      exit
+
+5. The system will reboot. Wait for SELinux relabeling if enabled.
+
+6. After reboot, login as root with your new password.
+
+############################################################
+#  Notes:
+#  - Requires physical or console access (for GRUB editing)
+#  - If GRUB is password-protected, this method won't work
+#  - SELinux relabel may take a few minutes
+############################################################
